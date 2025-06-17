@@ -2,7 +2,6 @@ import streamlit as st
 import os
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 import json
 # Load required libraries for modeling
 from sklearn.linear_model import LinearRegression
